@@ -73,8 +73,14 @@ Passionate about building real-world applications using Android, Web Technologie
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwa214&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa214&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishwa214&show_icons=true&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishwa214&layout=compact&theme=tokyonight"
+    height="170"
+  />
 </p>
 
 ---
