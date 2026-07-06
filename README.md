@@ -70,20 +70,19 @@ Passionate about building real-world applications using Android, Web Technologie
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwa214&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa214&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwa214&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa214&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vishwa214&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=vishwa214&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
