@@ -62,12 +62,6 @@ Passionate about building real-world applications using Android, Web Technologie
 
 ---
 
-# 🎯 Currently Working On
-
-- 🚍 Smart Commute
-- 🤖 AI Smart Invigilation System
-- 🌟 CampusGPT
-
 ---
 
 ## 📊 GitHub Statistics
