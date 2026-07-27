@@ -88,7 +88,9 @@ Passionate about building real-world Android, Web, and AI applications that solv
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwa214&theme=tokyonight&hide_border=true&mode=weekly&card_width=495&type=svg" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vishwa214&theme=tokyonight&hide_border=true)
+
 </p>
 
 ---
