@@ -113,7 +113,11 @@ Passionate about building real-world Android, Web, and AI applications that solv
 
 # 📫 Connect With Me
 
-- GitHub: **https://github.com/vishwa214**
+<p align="center">
+  <a href="https://github.com/vishwa214">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
