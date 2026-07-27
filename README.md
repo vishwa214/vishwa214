@@ -5,7 +5,7 @@ Android Developer • Full Stack Web Developer • AI & Computer Vision Enthusia
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Android+Developer;Full+Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Android+Developer;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
