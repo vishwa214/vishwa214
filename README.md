@@ -85,10 +85,10 @@ Passionate about building real-world Android, Web, and AI applications that solv
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwa214&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vishwa214&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
